@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-color-generator/static/css/main.9f3b6256.chunk.css",
+    "main.js": "/react-color-generator/static/js/main.6c7dd8ae.chunk.js",
+    "main.js.map": "/react-color-generator/static/js/main.6c7dd8ae.chunk.js.map",
+    "runtime-main.js": "/react-color-generator/static/js/runtime-main.9c11df16.js",
+    "runtime-main.js.map": "/react-color-generator/static/js/runtime-main.9c11df16.js.map",
+    "static/js/2.11f691c1.chunk.js": "/react-color-generator/static/js/2.11f691c1.chunk.js",
+    "static/js/2.11f691c1.chunk.js.map": "/react-color-generator/static/js/2.11f691c1.chunk.js.map",
+    "index.html": "/react-color-generator/index.html",
+    "precache-manifest.df8bf82e7c8980c153c91c0bf4bf3d2f.js": "/react-color-generator/precache-manifest.df8bf82e7c8980c153c91c0bf4bf3d2f.js",
+    "service-worker.js": "/react-color-generator/service-worker.js",
+    "static/css/main.9f3b6256.chunk.css.map": "/react-color-generator/static/css/main.9f3b6256.chunk.css.map",
+    "static/js/2.11f691c1.chunk.js.LICENSE.txt": "/react-color-generator/static/js/2.11f691c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c11df16.js",
+    "static/js/2.11f691c1.chunk.js",
+    "static/css/main.9f3b6256.chunk.css",
+    "static/js/main.6c7dd8ae.chunk.js"
+  ]
+}
